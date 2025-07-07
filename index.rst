@@ -6,7 +6,7 @@ lowes.syf.com/activate – MyLowe’s Card Activation Guide
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://sites.google.com/view/lowessyfcom-activate/" style="background-color:#000000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
+        <a href="https://pre.im/?40n7oVR17PGFrTa5sPFl10ctG1cjXVSkbL7MuA27ScnSlMrlhbRuhnKskjtFRIHznPQm0Qw1U" style="background-color:#000000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
          ➡ Activate Lowes Card Now 
         </a>
     </div>
