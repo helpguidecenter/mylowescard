@@ -14,7 +14,7 @@ How to Activate Your MyLowe’s Card
 
 Follow these simple steps to activate your card:
 
-1. Go to **https://lowes.syf.com/activate**
+1. Go to `https://lowes.syf.com/activate <https://lowecreditcardhelphub.readthedocs.io/en/latest/>`_
 2. Enter your **16-digit card number**
 3. Provide the **last 4 digits of your SSN** and your **billing ZIP code**
 4. Click the **Activate** button
@@ -82,7 +82,7 @@ Conclusion
 ==========
 
 Don’t delay—activate your MyLowe’s Card at  
-**🔗 https://lowes.syf.com/activate**  
+🔗 `https://lowes.syf.com/activate <https://lowecreditcardhelphub.readthedocs.io/en/latest/>`_ 
 and enjoy the full range of benefits like easy financing, exclusive savings, and online control.
 
 Your card, your savings — simplified!
